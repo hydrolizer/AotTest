@@ -2,10 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/bin
-/lib
-/obj
-/packages
+bin/
+lib/
+obj/
+packages/
 .vs/
 *.user
-/Temp.Core/Resources/SQL/Work
