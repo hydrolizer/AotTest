@@ -1,0 +1,7 @@
+<linker>
+  <assembly fullname="AotLink" preserve="all">
+    <!--type fullname="AotLink.TestClass" >
+      <method name="Zot" />
+    </type-->
+  </assembly>
+</linker>
